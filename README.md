@@ -15,6 +15,7 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="icons/cpp.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="icons/java.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="icons/js.svg" alt="javascript" width="40" height="40"/> </a>
+ <a><img src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" width="40" height="40></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="icons/python.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
