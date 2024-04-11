@@ -1,5 +1,5 @@
 # 💫 About Me:
-Motivated software developer with a deep desire to achieve outstanding achievements,<br> a final-year computer science student. Proficient with server- side languages such as Java, Python, Node.JS, and C#.<br> has a deep understanding of solid computer science skills in object-oriented design, data structures, algorithm design, problem solving, and complexity analysis.<br>A Deep Familiarity with cloud provider services(GCP, AWS, Azure)and database technology (MongoDB, MySQL, PostgreSQL), Experience in the cyber security domain and big data technologies, full control of Linux-env, Fast learner, learning new code and technologies very quickly, team player. 
+Motivated software developer with a deep desire to achieve outstanding achievements,<br> a  computer science graduate. Proficient with server- side languages such as Java, Python, Node.JS, and C#.<br> has a deep understanding of solid computer science skills in object-oriented design, data structures, algorithm design, problem solving, and complexity analysis.<br>A Deep Familiarity with cloud provider services(GCP, AWS, Azure)and database technology (MongoDB, MySQL, PostgreSQL), Experience in the cyber security domain and big data technologies, full control of Linux-env, Fast learner, learning new code and technologies very quickly, team player. 
 
 
 ## 🌐 Socials:
